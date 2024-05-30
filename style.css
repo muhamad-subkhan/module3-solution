@@ -1,0 +1,26 @@
+@media screen and (min-width: 991px) {
+    .text-visible{
+        visibility:hidden !important;
+    }
+}
+@media screen and (max-width: 991.98px) {
+    .text-visible{
+      background-color: white;
+      border: 1px solid black;
+    }
+    .pad{
+        margin-top: 2%;
+    }
+    .cc{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+}
+
+
+
+
+
+.nav-color{
+    background-color: #686D76;
+}
